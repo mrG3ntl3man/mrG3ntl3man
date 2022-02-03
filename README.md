@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrG3ntl3man
+- 👋 Hi, I’m mrG3ntl3man
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
